@@ -30,6 +30,8 @@ body {
 }
 
 .container {
+  width: 300px;
+  height: 600px;
   background-color: var(--White);
   padding: 1.25rem;
   border-radius: 0.625rem;
